@@ -1,0 +1,73 @@
+[
+	{
+		"titolo": "Pioggia",
+		"autori": [
+			{
+				"nome": "Gue",
+				"cognome": "Pequeno"
+			},
+			{
+				"nome": "Luchè",
+				"cognome": "Merda"
+			}
+		],
+		"edizione": 1,
+		"genere": "Rap",
+		"sottogenere": "Rap",
+		"linguaOriginale": "Ita",
+		"ambientazione": "MI",
+		"items": [
+			{
+				"codice": "1",
+				"isPrestito": true,
+				"Cliente": {
+					"codiceFiscale": "ASD",
+					"numero": "3333333",
+					"email": "Mammt@gmail.com",
+					"nome": "Fabio",
+					"cognome": "Ronaldo"
+				}
+			},
+			{
+				"codice": "2",
+				"isPrestito": false
+			}
+		]
+	},
+	
+	{
+		"titolo": "Pioggia",
+		"autori": [
+			{
+				"nome": "Gue",
+				"cognome": "Pequeno"
+			},
+			{
+				"nome": "Luchè",
+				"cognome": "Merda"
+			}
+		],
+		"edizione": 1,
+		"genere": "Rap",
+		"sottogenere": "Rap",
+		"linguaOriginale": "Ita",
+		"ambientazione": "MI",
+		"items": [
+			{
+				"codice": "1",
+				"isPrestito": true,
+				"Cliente": {
+					"codiceFiscale": "ASD",
+					"numero": "3333333",
+					"email": "Mammt@gmail.com",
+					"nome": "Fabio",
+					"cognome": "Ronaldo"
+				}
+			},
+			{
+				"codice": "2",
+				"isPrestito": false
+			}
+		]
+	}
+]
