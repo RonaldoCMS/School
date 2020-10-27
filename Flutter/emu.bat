@@ -1,0 +1,1 @@
+P:\_Win10\Programmi\Android\Local\emulator\emulator -avd Nexus_6_API_30
