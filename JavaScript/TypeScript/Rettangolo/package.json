@@ -1,0 +1,14 @@
+{
+  "name": "rettangolo",
+  "version": "1.0.0",
+  "description": "Esercizio numero 1 di Javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "RonaldoCMS",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.0.5"
+  }
+}

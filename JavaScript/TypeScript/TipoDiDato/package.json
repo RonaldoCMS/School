@@ -1,0 +1,14 @@
+{
+  "name": "tipodidato",
+  "version": "1.0.0",
+  "description": "Tipi di dati JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RonaldoCMS",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
