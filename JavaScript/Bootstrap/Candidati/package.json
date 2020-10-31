@@ -1,0 +1,14 @@
+{
+  "name": "ronaldo",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "testù"
+  },
+  "author": "RonaldoCMS",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}

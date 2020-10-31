@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "P:\\_Win10\\Documenti\\GitHub\\Flutter\\Flutter_Dart\\Tris\\lib\\main.dart",
+            "program": "P:\\_Win10\\Documenti\\GitHub\\School\\Flutter\\scr\\test_flutter\\LOGIN\\lib\\main.dart",
             "request": "launch",
             "type": "dart"
         }

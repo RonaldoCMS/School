@@ -38,8 +38,9 @@ Container mainContainer() {
   return Container(
     padding: const EdgeInsets.all(16.0),
     child: Column(children: <Widget>[
-      textField("USERNAME"),
-      textField("PASSWORD"),
+      Text("Michele o piscione ♥", textAlign: TextAlign.center, style: TextStyle(color: Colors.red, fontSize: 100),),
+      //textField("USERNAME"),
+      //textField("PASSWORD"),
 
     ]),
   );
