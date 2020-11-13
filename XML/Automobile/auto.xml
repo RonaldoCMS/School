@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auto>
+    <nome>1</nome>
+    <marca>2</marca>
+    <cilindrata>3</cilindrata>
+    <dimensioni>
+        <altezza>4</altezza>
+        <lunghezza>5</lunghezza>
+    </dimensioni>
+    <motore>6</motore>
+</auto>
+
+<!-- Caso 2 
+
+<auto dimensione="altezza: 20, lunghezza: 30">
+    <nome> </nome>
+    <marca> </marca>
+    <cilindrata> </cilindrata>
+    <motore> </motore>
+</auto>
+
+-->
