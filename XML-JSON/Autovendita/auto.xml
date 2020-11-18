@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<venditaAuto>
+    <autos>
+        <auto id="1">
+            <info>
+                <nome>Fiest</nome>
+                <marca>Ford</marca>
+                <modello>2000</modello>
+                <colore>Rosso</colore>
+                <carburante>Diesel</carburante>
+            </info>
+            <usato>True</usato>
+            <prezzo>12.000</prezzo>
+        </auto>
+        <auto id="2">
+            <info>
+                <nome>Mito</nome>
+                <marca>Alfa Romeo</marca>
+                <modello>3000</modello>
+                <colore>Rosso</colore>
+                <carburante>Elettrica</carburante>
+            </info>
+            <usato>False</usato>
+            <prezzo>75.000</prezzo>
+        </auto>
+        <auto id="3">
+            <info>
+                <nome>Verom</nome>
+                <marca>Lamborghini</marca>
+                <modello>1000</modello>
+                <colore>Rosa</colore>
+                <carburante>Super diesel</carburante>
+            </info>
+            <usato>False</usato>
+            <prezzo>1.250.000</prezzo>
+        </auto>
+    </autos>
+</venditaAuto>

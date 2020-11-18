@@ -3,7 +3,13 @@ import '../App.css';
 
 class Bottoni extends React.Component {
 
-    render(props) {
+    constructor(props) {
+        super(props)
+    }
+
+    
+
+    render() {
         return(
             <button className="bottoni"> {this.props.valore} </button>
         );

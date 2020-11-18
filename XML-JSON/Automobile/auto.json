@@ -1,0 +1,14 @@
+[
+    {
+        "auto": {
+            "nome": "1",
+            "marca": "2",
+            "modello": "3",
+            "clindrata": "4",
+            "dimensione": {
+                "altezza": 5,
+                "lunghezza": 6
+            }
+        }
+    }
+]

@@ -1,0 +1,44 @@
+{
+    "venditaAuto": {
+      "autos": {
+        "auto": [
+          {
+            "id": 1,
+            "info": {
+              "nome": "Fiest",
+              "marca": "Ford",
+              "modello": "2000",
+              "colore": "Rosso",
+              "carburante": "Diesel"
+            },
+            "usato": true,
+            "prezzo": 12000
+          },
+          {
+            "id": 2,
+            "info": {
+              "nome": "Mito",
+              "marca": "Alfa Romeo",
+              "modello": "3000",
+              "colore": "Rosso",
+              "carburante": "Elettrica"
+            },
+            "usato": false,
+            "prezzo": 75000
+          },
+          {
+            "id": 3,
+            "info": {
+              "nome": "Verom",
+              "marca": "Lamborghini",
+              "modello": "1000",
+              "colore": "Rosa",
+              "carburante": "Super diesel"
+            },
+            "usato": false,
+            "prezzo": 1250000
+          }
+        ]
+      }
+    }
+  }

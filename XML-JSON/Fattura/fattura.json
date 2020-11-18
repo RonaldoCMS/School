@@ -1,0 +1,59 @@
+{
+        "fattura" : {
+            "info" : {
+                "societa" : "Danubbio",
+                "CAP" : "80030",
+                "citta" : "Cimitile",
+                "provincia" : "Napoli",
+                "telefono" : "118"
+            },
+            "dati" : {
+                "mittente" : {
+                    "Nfattura" : 1323,
+                    "data" : {
+                        "giorno" : 30,
+                        "mese" : "Febbraio",
+                        "anno" : 2030
+                    }
+                },
+                "destinatario" : {
+                    "idCliente" : 2010,
+                    "Condizioni" : "Perchè è troppo figo"
+                }
+            },
+            "prodotti" : [
+                {
+                    "prodotto" : {
+                        "descrizione" : "Tony Stark",
+                        "qty" : 10,
+                        "prezzoUnitario" : 1200,
+                        "importo" : 1500
+                    }
+                },
+
+                {
+                    "prodotto" : {
+                        "descrizione" : "Tony Stark",
+                        "qty" : 10,
+                        "prezzoUnitario" : 1200,
+                        "importo" : 1500
+                    }
+                },
+                
+                {
+                    "prodotto" : {
+                        "descrizione" : "Tony Stark",
+                        "qty" : 10,
+                        "prezzoUnitario" : 1200,
+                        "importo" : 1500
+                    }
+                }
+            ],
+            "conto" : {
+                "iva" : 10,
+                "subtot" : 1200,
+                "aliquotaIVA" : 10,
+                "totale" : 12000
+            }
+        }
+    }
