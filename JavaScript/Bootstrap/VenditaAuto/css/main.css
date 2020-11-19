@@ -1,0 +1,59 @@
+body {
+    background-color: #302d2d;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#body-background {
+    
+}
+
+#nav-main {
+    background-image: url('https://premium.cdn.gestionaleauto.com/wp-content/uploads/sites/30/2019/03/Alfa-Romero_Giulia-Veloce_1_2019.jpg');
+    background-repeat: round;
+    background-color: aliceblue;
+    display: flex;
+    border-radius: 20px;
+}
+
+#nav-items {
+    padding: 200px;
+    display: flex;
+    border-radius:20px;
+    
+}
+
+#nav-item {
+    background-color: aliceblue;
+    border-radius: 25px;
+    font-size: larger;
+    padding: 10px;
+    text-align: center;
+}
+
+#nav-logo {
+    text-align: center;
+    display: grid;
+}
+
+a {
+    padding: 10px;
+    font-size: 100%;
+    text-align: center;
+}
+
+#nav-item:hover {
+    background-color: red;
+}
+
+#footer-main {
+    padding:20px;
+}
+
+#footer-items {
+    padding:20px;
+    
+}
+
+#footer-item {
+    padding:20px;
+}
